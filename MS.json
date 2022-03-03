@@ -27,55 +27,55 @@
       "id":111,
       "name_skin":"Encanto Skin 1",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto01.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto01.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto1.png"
     },
     {
       "id":112,
       "name_skin":"Encanto Skin 2",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto02.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto02.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto2.png"
     },
     {
       "id":113,
       "name_skin":"Encanto Skin 3",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto03.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto03.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto3.png"
     },
     {
       "id":114,
       "name_skin":"Encanto Skin 4",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto04.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto04.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto4.png"
     },
     {
       "id":115,
       "name_skin":"Encanto Skin 5",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto05.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto05.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto5.png"
     },
     {
       "id":116,
       "name_skin":"Encanto Skin 6",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto06.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto06.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto6.png"
     },
     {
       "id":117,
       "name_skin":"Encanto Skin 7",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto07.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto07.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto7.png"
     },
     {
       "id":118,
       "name_skin":"Encanto Skin 8",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto08.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto08.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto8.png"
     },
     {
       "id":119,
       "name_skin":"Encanto Skin 9",
       "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto09.png",
-      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto09.png"
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto9.png"
     },
     {
       "id":120,
@@ -211,7 +211,7 @@
     {
       "id":1,
       "name_map":"Encanto Maps",
-      "map_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/maps1.mcworld",
+      "map_url":"https://raw.githubusercontent.com/taqwim36/Encanto-Mod-for-Minecraft-PE/main/maps1.mcworld",
       "view_map":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/maps1.jpeg",
       "des_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/konoha_maps.html"
     }
