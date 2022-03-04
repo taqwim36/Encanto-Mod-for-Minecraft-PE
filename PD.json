@@ -1,0 +1,221 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-8565607732819284/6998766424",
+      "main_ads_intertitial":"ca-app-pub-8565607732819284/4788014988",
+      "native_for_admob":"ca-app-pub-8565607732819284/3059521410",
+      "backup_ads_banner":"00b6346b95517031",
+      "backup_ads_intertitial":"f4d5fcdaaeddf724",
+      "interval_intertitial": 2,
+      "initialize_sdk":"NULL",
+      "initialize_sdk_backup_ads":"NULL",
+      "high_paying_keyword_1": "claim",
+      "high_paying_keyword_2": "donate",
+      "high_paying_keyword_3": "hosting",
+      "high_paying_keyword_4": "finance",
+      "high_paying_keyword_5": "insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":111,
+      "name_skin":"Encanto Skin 1",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto01.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto1.png"
+    },
+    {
+      "id":112,
+      "name_skin":"Encanto Skin 2",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto02.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto2.png"
+    },
+    {
+      "id":113,
+      "name_skin":"Encanto Skin 3",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto03.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto3.png"
+    },
+    {
+      "id":114,
+      "name_skin":"Encanto Skin 4",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto04.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto4.png"
+    },
+    {
+      "id":115,
+      "name_skin":"Encanto Skin 5",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto05.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto5.png"
+    },
+    {
+      "id":116,
+      "name_skin":"Encanto Skin 6",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto06.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto6.png"
+    },
+    {
+      "id":117,
+      "name_skin":"Encanto Skin 7",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto07.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto7.png"
+    },
+    {
+      "id":118,
+      "name_skin":"Encanto Skin 8",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto08.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto8.png"
+    },
+    {
+      "id":119,
+      "name_skin":"Encanto Skin 9",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto09.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto9.png"
+    },
+    {
+      "id":120,
+      "name_skin":"Encanto Skin 10",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto10.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto10.png"
+    },
+    {
+      "id":121,
+      "name_skin":"Encanto Skin 11",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto11.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto11.png"
+    },
+    {
+      "id":122,
+      "name_skin":"Encanto Skin 12",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto12.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto12.png"
+    },
+    {
+      "id":123,
+      "name_skin":"Encanto Skin 13",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto13.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto13.png"
+    },
+    {
+      "id":124,
+      "name_skin":"Encanto Skin 14",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto14.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto14.png"
+    },
+    {
+      "id":125,
+      "name_skin":"Encanto Skin 15",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto15.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto15.png"
+    },
+    {
+      "id":126,
+      "name_skin":"Encanto Skin 16",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto16.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto16.png"
+    },
+    {
+      "id":127,
+      "name_skin":"Encanto Skin 17",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto17.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto17.png"
+    },
+    {
+      "id":128,
+      "name_skin":"Encanto Skin 18",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto18.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto18.png"
+    },
+    {
+      "id":129,
+      "name_skin":"Encanto Skin 19",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto19.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto19.png"
+    },
+    {
+      "id":130,
+      "name_skin":"Encanto Skin 20",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto20.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto20.png"
+    },
+    {
+      "id":131,
+      "name_skin":"Encanto Skin 21",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto21.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto21.png"
+    },
+    {
+      "id":132,
+      "name_skin":"Encanto Skin 22",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto22.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto22.png"
+    },
+    {
+      "id":133,
+      "name_skin":"Encanto Skin 23",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto23.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto23.png"
+    },
+    {
+      "id":134,
+      "name_skin":"Encanto Skin 24",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto24.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto24.png"
+    },
+    {
+      "id":135,
+      "name_skin":"Encanto Skin 25",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto25.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto25.png"
+    },
+    {
+      "id":136,
+      "name_skin":"Encanto Skin 26",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto26.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto26.png"
+    },
+    {
+      "id":137,
+      "name_skin":"Encanto Skin 27",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto27.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto27.png"
+    },
+    {
+      "id":138,
+      "name_skin":"Encanto Skin 28",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto28.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto28.png"
+    },
+    {
+      "id":139,
+      "name_skin":"Encanto Skin 29",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto29.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto29.png"
+    },
+    {
+      "id":140,
+      "name_skin":"Encanto Skin 30",
+      "view_skin":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/encanto30.png",
+      "skin_url":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/skinencanto30.png"
+    }
+  ],
+  "Addons":
+  [],
+  "Maps":
+  [
+    {
+      "id":1,
+      "name_map":"Encanto Maps",
+      "map_url":"https://raw.githubusercontent.com/taqwim36/Encanto-Mod-for-Minecraft-PE/main/maps1.mcworld",
+      "view_map":"https://cdn.statically.io/gh/taqwim36/Encanto-Mod-for-Minecraft-PE/main/maps1.jpeg",
+      "des_map":"https://minecraftcornersapps.skom.id/DataNarutoModSkinMaps/konoha_maps.html"
+    }
+  ],
+  "More":
+  []
+}
